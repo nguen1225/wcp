@@ -1,0 +1,6 @@
+
+public class Ready02 {
+	public static vold main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
