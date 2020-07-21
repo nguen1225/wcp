@@ -1,0 +1,19 @@
+package classMethod;
+
+import classMethod.human.Human04;
+
+public class ClassMethod04 {
+	public static void main(String[] args) {
+		Human04 setuna = new Human04("刹那");
+//		Human04 rokkuonn = new Human04("ロックオン");
+
+		Human04.staticMethodPrint();
+		System.out.println(Human04.humanCount);
+
+		System.out.println(Human04.GREETING);
+
+		setuna.instanceMethodPrint();
+		System.out.println(setuna.name);
+	}
+
+}
