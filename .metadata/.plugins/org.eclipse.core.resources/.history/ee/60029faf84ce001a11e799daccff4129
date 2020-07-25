@@ -1,0 +1,12 @@
+package exception;
+
+public class Exception03 {
+	public static void main(String[] args) {
+		try {
+			Exception03.division(100, 0);
+		} catch (ArithmeticException e) {
+			Syste.out.println("ArithmeticException例外が発生");
+		}
+	}
+
+}
