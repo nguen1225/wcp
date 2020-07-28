@@ -2,11 +2,13 @@
 <runner version="1.0.0">
 <category expanded="true" name="カテゴリーなし">
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Break01"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Capsule01"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter04"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter06"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter07"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter08"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter09"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter10"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter5"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassMethod01"/>
 <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassMethod01 (1)"/>
