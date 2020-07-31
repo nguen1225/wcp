@@ -1105,3 +1105,337 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 23:35:09.908
 !MESSAGE executing callback sts4.classpath.mRhUFUwW SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:28:56.082
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mRhUFUwW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:28:56.095
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.mRhUFUwW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:28:56.099
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:28:56.100
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mRhUFUwW => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:41.049
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:41.050
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@38d4f42f[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=1012)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:41.052
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.774
+!MESSAGE Boot LS startup time from start to initialized: 9705ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.906
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZzZZLnmQisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.906
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.909
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.910
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.913
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.914
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.917
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.918
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZzZZLnmQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.921
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.922
+!MESSAGE buffering callback sts4.classpath.ZzZZLnmQ JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:50.925
+!MESSAGE executing callback sts4.classpath.ZzZZLnmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:29:51.058
+!MESSAGE executing callback sts4.classpath.ZzZZLnmQ SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.350
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ZzZZLnmQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.362
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ZzZZLnmQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.363
+!MESSAGE subsribers = {}
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.365
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.365
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ZzZZLnmQ => OK
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.366
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.378
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.389
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.391
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.394
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.397
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.398
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.421
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.422
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@38d4f42f[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=1012)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:04.424
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.499
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:30:04.500
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.649
+!MESSAGE Boot LS startup time from start to initialized: 3224ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.715
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.bpeLRUQKisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.716
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.719
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.723
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.726
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.727
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.732
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.733
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.bpeLRUQK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.735
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.739
+!MESSAGE buffering callback sts4.classpath.bpeLRUQK JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.739
+!MESSAGE executing callback sts4.classpath.bpeLRUQK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-01 07:30:07.792
+!MESSAGE executing callback sts4.classpath.bpeLRUQK SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2020-08-01 07:32:57.325
+!MESSAGE 内部エラー
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:397)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:324)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:148)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.RenameTypeWizardInputPage.performFinish(RenameTypeWizardInputPage.java:153)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:450)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4385)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3789)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.lambda$0(RefactoringWizardOpenOperation.java:190)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:209)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:126)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:41)
+	at org.eclipse.jdt.internal.ui.refactoring.UserInterfaceStarter.activate(UserInterfaceStarter.java:65)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.RenameUserInterfaceStarter.activate(RenameUserInterfaceStarter.java:35)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:163)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:119)
+	at org.eclipse.jdt.internal.corext.refactoring.RefactoringExecutionStarter.startRenameRefactoring(RefactoringExecutionStarter.java:441)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:242)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:115)
+	at org.eclipse.jdt.ui.actions.RenameAction.run(RenameAction.java:113)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:579)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:413)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4385)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3789)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+Caused by: java.lang.IllegalArgumentException: Illegal value: -1
+	at org.eclipse.core.internal.resources.Resource.revertModificationStamp(Resource.java:1580)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:360)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:241)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.isValid(DynamicValidationStateChange.java:97)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:241)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Root exception:
+java.lang.IllegalArgumentException: Illegal value: -1
+	at org.eclipse.core.internal.resources.Resource.revertModificationStamp(Resource.java:1580)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:360)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:241)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.isValid(DynamicValidationStateChange.java:97)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:241)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.495
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.496
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.499
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.499
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.502
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.502
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.505
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.505
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.531
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:33:29.532
+!MESSAGE リソース '/JavaWcp/src/practice/CapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.822
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.824
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.827
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.837
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.843
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.849
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.861
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.863
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.944
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-08-01 07:45:52.944
+!MESSAGE リソース '/JavaWcp/src/practice/NoCapsuleMan.java' が存在しません。
+
+!ENTRY org.eclipse.lsp4e 2 0 2020-08-01 07:51:06.077
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1928)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
