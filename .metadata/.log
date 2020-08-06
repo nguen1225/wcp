@@ -1779,3 +1779,63 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:39:51.439
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XyMVlsCG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:39:51.447
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.XyMVlsCG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:39:51.452
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:39:51.453
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XyMVlsCG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:34.844
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:34.847
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@185c45f8[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=1012)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:34.849
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.557
+!MESSAGE Boot LS startup time from start to initialized: 6703ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.683
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rUKAVLGUisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.683
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.684
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.685
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.686
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.689
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.691
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.693
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rUKAVLGU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.696
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.697
+!MESSAGE buffering callback sts4.classpath.rUKAVLGU JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.698
+!MESSAGE executing callback sts4.classpath.rUKAVLGU 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-07 07:40:41.813
+!MESSAGE executing callback sts4.classpath.rUKAVLGU SUCCESS [終了しました]
